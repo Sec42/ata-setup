@@ -1,0 +1,5 @@
+*.cfile
+*.bits
+tracking/IRIDIUM*
+tracking/*txt
+.*
