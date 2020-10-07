@@ -8,7 +8,7 @@ Just some notes and scripts from the [Allen Telescope Array](https://seti.org/si
 
   Check source [Dockerfile](docker/Dockerfile), but see ISSUES below
 
-- got pybombs running and made a working local gnuradio3.8 + [gr-iridium](https://github.com/muccc/gr-iridium) + [inspectrum](https://github.com/miek/inspectrum/) setup in `~/GR38`
+- got pybombs running and made a working local gnuradio3.8 + [gr-iridium](https://github.com/muccc/gr-iridium) + [inspectrum](https://github.com/miek/inspectrum/) + [gr-ata](https://github.com/SETIatHCRO/gr-ata/) setup in `~/GR38`
 
   pybombs setup documentation is in https://github.com/Sec42/sec-gr/blob/master/README
 
