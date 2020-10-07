@@ -12,6 +12,8 @@ Just some notes and scripts from the [Allen Telescope Array](https://seti.org/si
 
   pybombs setup documentation is in https://github.com/Sec42/sec-gr/blob/master/README
 
+  use with `source ~sec/GR38/setup_env.sh`
+
 - some small python scripts for various [ATA-Utils](https://github.com/SETIatHCRO/ATA-Utils) functions
   - `~/ata_status.py` # fullscreen ascii status of the array
   - `~/ata_getfreq.py [antenna]` # print LO and focus for that antenna.
